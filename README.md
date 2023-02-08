@@ -6,7 +6,7 @@ I live in Rio de Janeiro, Brazil. I'm Passionate about studying and learning new
 <br>
 I have a college degree in Biological Sciences from UFRJ and a master's degree in Medical Biochemistry at UFRJ. 
 <br>
-Already done work as elementary and high school biology teacher. Lecturer in chemistry, biology and laboratory classes.
+Already done work as elementary and high school teacher lecturing in chemistry, biology and laboratory classes.
 
 ## Contacts:
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artur-senna/)
