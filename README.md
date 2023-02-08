@@ -4,7 +4,7 @@
 
 I live in Rio de Janeiro, Brazil. I'm Passionate about studying and learning new things. Currently studying Web Development at Trybe. 
 <br>
-I have a college degree in Biological Sciences from UFRJ and a master's degree in Medical Biochemistry at UFRJ. Studies in plant molecular biology. 
+I have a college degree in Biological Sciences from UFRJ and a master's degree in Medical Biochemistry at UFRJ. 
 <br>
 Already done work as elementary and high school biology teacher. Lecturer in chemistry, biology and laboratory classes.
 
