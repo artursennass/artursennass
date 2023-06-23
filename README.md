@@ -28,6 +28,7 @@ Already done work as elementary and high school teacher lecturing in chemistry, 
 ![Docker Badge](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Sequelize Badge](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
+![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## My Github stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artursennass&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
